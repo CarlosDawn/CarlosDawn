@@ -32,7 +32,7 @@
 
 ### Studying in this moment:
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![GIT](<img alt="Static Badge" src="https://img.shields.io/badge/-GIT?logo=git">)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT?logo=git)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=OpenJDK&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
